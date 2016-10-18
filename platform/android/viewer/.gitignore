@@ -6,3 +6,5 @@
 /captures
 *.iml
 obj
+/gradlew
+/gradlew.bat
